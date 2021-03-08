@@ -1,0 +1,10 @@
+
+
+.js-player {
+  --plyr-color-main: #bfae72;
+  --plyr-menu-radius: 1em;
+  --plyr-audio-controls-background: #ffffff;
+  --plyr-audio-progress-buffered-background: rgba(193, 200, 209, 0.6);
+  --plyr-audio-progress-buffered-background: rgba(193, 200, 209, 0.6);
+}
+
